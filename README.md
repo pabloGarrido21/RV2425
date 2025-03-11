@@ -1,2 +1,7 @@
-# RV2425
-Lugar para poner las Practicas de Realidad Virtual
+# IMPORTANTE
+
+Se necesita poner el ComputerGraphics para poder sacar todo
+
+hay que añadir a la carpeta DEBUG del programa los dll necesarios. Principalmente glew32.dll
+
+
