@@ -2,8 +2,7 @@
 
 Seguir el pdf está bien, pero hay que hacer ciertas modificaciones
 
-1.) hay que añadir los archivos  "opengl32.lib", "glew32.lib",
- "FreeImage.lib" y "glfw3.lib" a X64/Debug
+1.) hay que añadir los archivos "glew32.dll","FreeImage.dll" y "glfw3.dll" a X64/Debug
 
  2.) en la clase CGApplication.cpp hay que cambiar una cosa en el método swapFullScreen():
 
